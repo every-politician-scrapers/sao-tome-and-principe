@@ -1,0 +1,3 @@
+id,name,relationship,relative,relativename
+Q459822,Patrice Trovoada,father,Q504522,Miguel Trovoada
+Q504522,Miguel Trovoada,child,Q459822,Patrice Trovoada
