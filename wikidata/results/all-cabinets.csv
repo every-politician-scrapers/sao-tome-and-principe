@@ -1,8 +1,8 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q56312248,Q56312248,,,,,,,,,,,,,,,,
-,Q56312253,Q56312253,,,,,,,,,,,,,,,,
-,Q60846150,Q60846150,,,,,,,,,,,,,,,,
-,Q56164375,Q56164375,2002-10-07,11,,,2004-09-18,11,,,,,,,,,,
+,Q56312253,4th Constitutional Government of São Tomé and Príncipe,1995-12-31,11,,,,,,,,,,,,,,
+,Q60846150,5th Constitutional Government of São Tomé and Príncipe,1996-11-19,11,,,,,,,,,,,,,,
+,Q56312248,7th Constitutional Government of São Tomé and Príncipe,2002-03-28,11,,,,,,,,,,,,,,
+,Q56164375,8th Constitutional Government of São Tomé and Príncipe,2002-10-07,11,,,2004-09-18,11,,,,,,,,,,
 ,Q18217416,XV Constitutional Government of São Tomé and Príncipe,2012-12-12,11,,,,,,,,,,,Q18217412,XIV Constitutional Government of São Tomé and Príncipe,Q56248907,XVI Constitutional Government of São Tomé and Príncipe
-,Q56248907,XVI Constitutional Government of São Tomé and Príncipe,2014-11-25,11,,,2018-01-01,9,,,,,,,Q18217416,XV Constitutional Government of São Tomé and Príncipe,Q59473203,XVI Constitutional Government of São Tomé and Príncipe
-,Q59473203,XVI Constitutional Government of São Tomé and Príncipe,2018-12-03,11,,,,,,,,,,,Q56248907,XVI Constitutional Government of São Tomé and Príncipe,,
+,Q56248907,XVI Constitutional Government of São Tomé and Príncipe,2014-11-25,11,,,2018-01-01,9,,,,,,,Q18217416,XV Constitutional Government of São Tomé and Príncipe,Q59473203,17th Constitutional Government of São Tomé and Príncipe
+17,Q59473203,17th Constitutional Government of São Tomé and Príncipe,2018-12-03,11,,,,,,,,,,,Q56248907,XVI Constitutional Government of São Tomé and Príncipe,,
