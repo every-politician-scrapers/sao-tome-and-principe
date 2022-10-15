@@ -1,0 +1,472 @@
+{
+  "title": "Carlos Vila Nova",
+  "pageID": 68450389,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Government ministers of São Tomé and Príncipe",
+    "Members of the National Assembly (São Tomé and Príncipe)",
+    "Independent Democratic Action politicians",
+    "21st-century São Toméan politicians",
+    "University of Oran alumni",
+    "People from Lembá District",
+    "Heads of state of São Tomé and Príncipe"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Manuel Vila Nova (born 27 July 1959) is a São Toméan politician who is the fifth and current president of São Tomé and Príncipe, since 2 October 2021.",
+              "links": [
+                {
+                  "text": "São Toméan",
+                  "type": "internal",
+                  "page": "São Tomé and Príncipe"
+                },
+                {
+                  "text": "president of São Tomé and Príncipe",
+                  "type": "internal",
+                  "page": "presidents of São Tomé and Príncipe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Manuel Vila Nova"
+                ]
+              }
+            },
+            {
+              "text": "He served as the minister of Public Works and Natural Resources (2010–2012) and minister of Infrastructure, Natural Resources and the Environment (2014–2018) in successive governments of Prime Minister Patrice Trovoada.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patrice Trovoada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the Independent Democratic Action candidate for the 2021 presidential election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independent Democratic Action"
+                },
+                {
+                  "text": "2021 presidential election",
+                  "type": "internal",
+                  "page": "2021 São Toméan presidential election"
+                }
+              ]
+            },
+            {
+              "text": "On 6 September, he was declared president-elect of São Tomé and Príncipe, receiving 58% of the vote and defeating Guilherme Posser da Costa of the MLSTP/PSD.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guilherme Posser da Costa"
+                },
+                {
+                  "text": "MLSTP/PSD",
+                  "type": "internal",
+                  "page": "Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party"
+                }
+              ]
+            },
+            {
+              "text": "On 14 September, he was declared president by the Tribunal constitutional court."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "São Toméan politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1959",
+          "month": "7",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Vila Nova"
+          },
+          "image": {
+            "text": "WSIS_FORUM_2015_Day_2_-_Carlos_Vila_Nova_(cropped).jpg"
+          },
+          "caption": {
+            "text": "Carlos Vila Nova in 2015"
+          },
+          "office": {
+            "text": "5th President of São Tomé and Príncipe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of São Tomé and Príncipe"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 October 2021"
+          },
+          "primeminister": {
+            "text": "Jorge Bom Jesus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Bom Jesus"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Evaristo Carvalho",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Evaristo Carvalho"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Infrastructure, Natural Resources and the Environment"
+          },
+          "president1": {
+            "text": "Evaristo Carvalho",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Evaristo Carvalho"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 November 2014"
+          },
+          "term_end1": {
+            "text": "3 December 2018"
+          },
+          "predecessor1": {
+            "text": "Fernando da Silva Maquengo de Freitas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando da Silva Maquengo de Freitas"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Osvaldo Abreu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osvaldo Abreu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Public Works and Natural Resources"
+          },
+          "president2": {
+            "text": "Fradique de Menezes Manuel Pinto da Costa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fradique de Menezes"
+              },
+              {
+                "type": "internal",
+                "page": "Manuel Pinto da Costa"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 August 2010"
+          },
+          "term_end2": {
+            "text": "12 December 2012"
+          },
+          "office3": {
+            "text": "Deputy",
+            "links": [
+              {
+                "text": "Deputy",
+                "type": "internal",
+                "page": "National Assembly (São Tomé and Príncipe)"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Água Grande",
+            "links": [
+              {
+                "text": "Água Grande",
+                "type": "internal",
+                "page": "Água Grande District"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "22 November 2018"
+          },
+          "birth_date": {
+            "text": "July 27, 1959"
+          },
+          "birth_place": {
+            "text": "Neves, São Tomé and Príncipe, Portugal",
+            "links": [
+              {
+                "text": "Neves",
+                "type": "internal",
+                "page": "Neves, São Tomé and Príncipe"
+              },
+              {
+                "text": "São Tomé and Príncipe",
+                "type": "internal",
+                "page": "Portuguese São Tomé and Príncipe"
+              },
+              {
+                "text": "Portugal",
+                "type": "internal",
+                "page": "Estado Novo (Portugal)"
+              }
+            ]
+          },
+          "party": {
+            "text": "ADI",
+            "links": [
+              {
+                "text": "ADI",
+                "type": "internal",
+                "page": "Independent Democratic Action"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-09-14",
+          "title": "Tribunal Constitucional confirma Carlos Vila Nova como Presidente de São Tomé e Príncipe",
+          "url": "https://africa21digital.com/2021/09/14/tribunal-constitucional-confirma-carlos-vila-nova-como-presidente-de-sao-tome-e-principe/",
+          "access-date": "2021-09-16",
+          "website": "África 21 Digital",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://presidencia.st/biografia.html",
+          "title": "Biografia Carlos Manuel Vila Nova",
+          "lang": "PT",
+          "access-date": "17 June 2022",
+          "website": "presidencia.st",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vila Nova was born in Neves, a city in Lembá District on the northern coast of São Tomé Island.",
+              "links": [
+                {
+                  "text": "Neves",
+                  "type": "internal",
+                  "page": "Neves, São Tomé and Príncipe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lembá District"
+                },
+                {
+                  "type": "internal",
+                  "page": "São Tomé Island"
+                }
+              ]
+            },
+            {
+              "text": "He received a degree in telecommunications engineering from the University of Oran, Algeria in 1985, then returned to become the head of the computer department of the government Statistics Directorate.",
+              "links": [
+                {
+                  "text": "telecommunications engineering",
+                  "type": "internal",
+                  "page": "telecommunications engineering"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Algeria"
+                }
+              ]
+            },
+            {
+              "text": "In 1988, he left the civil service to become a sales manager at the Hotel Miramar, which was then the only hotel in the country."
+            },
+            {
+              "text": "He was promoted to Director of the Hotel Miramar in 1992."
+            },
+            {
+              "text": "In 1997, he became Director of the hotel Pousada Boa Vista, and also founded his own travel agency Mistral Voyages."
+            },
+            {
+              "text": "Vila Nova continued in the tourism industry until he entered politics in 2010."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vila Nova served as Minister of Public Works and Natural Resources in the cabinet of Patrice Trovoada from 2010 until the government lost its majority in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patrice Trovoada"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Minister of Infrastructure, Natural Resources and the Environment when Trovoada's Independent Democratic Action (ADI) regained the majority in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independent Democratic Action"
+                },
+                {
+                  "text": "2014",
+                  "type": "internal",
+                  "page": "2014 São Toméan legislative election"
+                }
+              ]
+            },
+            {
+              "text": "In 2018, Vila Nova was elected to the National Assembly.",
+              "links": [
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 São Toméan legislative election"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (São Tomé and Príncipe)"
+                }
+              ]
+            },
+            {
+              "text": "He was nominated as the ADI's candidate for the 2021 presidential election.",
+              "links": [
+                {
+                  "text": "2021 presidential election",
+                  "type": "internal",
+                  "page": "2021 São Toméan presidential election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vila Nova is married, and has two daughters."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "10 August 2010",
+          "title": "Novo Governo tomou posse em São Tomé",
+          "url": "http://www.dn.pt/inicio/globo/interior.aspx?content_id=1641505&seccao=CPLP",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140826113308/http://www.dn.pt/inicio/globo/interior.aspx?content_id=1641505&seccao=CPLP",
+          "archive-date": "26 August 2014",
+          "website": "Diário de Notícias",
+          "language": "pt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "12 December 2012",
+          "title": "Novo Governo de STP já foi empossado",
+          "url": "https://www.dw.com/pt-002/novo-governo-de-stp-j%C3%A1-foi-empossado/a-16446610",
+          "url-status": "live",
+          "access-date": "4 September 2021",
+          "website": "Deutsche Welle",
+          "language": "pt",
+          "archive-url": "https://web.archive.org/web/20171211162913/http://www.dw.com/pt-002/novo-governo-de-stp-j%C3%A1-foi-empossado/a-16446610",
+          "archive-date": "11 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Veiga",
+          "first": "Abel",
+          "date": "26 August 2021",
+          "title": "\"Eu Garanto\" - Mas, quem é Carlos Vila Nova?",
+          "url": "https://www.telanon.info/politica/eleicoes-presidenciais/2021/08/26/35041/eu-garanto-mas-quem-e-carlos-vila-nova/",
+          "url-status": "live",
+          "access-date": "4 September 2021",
+          "website": "Téla Nón",
+          "language": "pt-PT",
+          "archive-url": "https://web.archive.org/web/20210904234409/https://www.telanon.info/politica/eleicoes-presidenciais/2021/08/26/35041/eu-garanto-mas-quem-e-carlos-vila-nova/",
+          "archive-date": "4 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "presidents of são tomé and príncipe"
+        },
+        {
+          "template": "heads of state of republics"
+        }
+      ]
+    }
+  ]
+}
