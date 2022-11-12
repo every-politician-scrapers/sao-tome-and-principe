@@ -127,11 +127,15 @@
             "text": "2 October 2021"
           },
           "primeminister": {
-            "text": "Jorge Bom Jesus",
+            "text": "Jorge Bom Jesus Patrice Trovoada",
             "links": [
               {
                 "type": "internal",
                 "page": "Jorge Bom Jesus"
+              },
+              {
+                "type": "internal",
+                "page": "Patrice Trovoada"
               }
             ]
           },

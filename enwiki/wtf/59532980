@@ -104,6 +104,9 @@
           "term_start": {
             "text": "3 December 2018"
           },
+          "term_end": {
+            "text": "10 November 2022"
+          },
           "predecessor": {
             "text": "Patrice Trovoada",
             "links": [
@@ -112,6 +115,9 @@
                 "page": "Patrice Trovoada"
               }
             ]
+          },
+          "successor": {
+            "text": "Patrice Trovoada"
           },
           "president": {
             "text": "Evaristo Carvalho Carlos Vila Nova",
@@ -482,11 +488,12 @@
         },
         {
           "title": "Prime Minister of São Tomé and Príncipe",
-          "years": "2018–present",
+          "years": "2018–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Patrice Trovoada",
+          "template": "s-aft"
         },
         {
           "template": "stppms"
