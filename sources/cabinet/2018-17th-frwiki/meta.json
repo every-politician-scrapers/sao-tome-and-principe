@@ -5,14 +5,14 @@
     },
     "cabinet": {
       "id":     "Q59473203",
-      "start":  "2018-12-03",
+      "start":  "2022-11-06",
+      "end":    "2022-11-07",
       "parent": "Q18125240"
     },
     "reference": {
         "P4656": "https://fr.wikipedia.org/wiki/XVIIe_gouvernement_constitutionnel_de_Sao_Tom%C3%A9-et-Principe"
     },
     "lang": "fr",
-    "current_only": "true",
     "person_description": {
         "en": "politician in São Tomé and Príncipe"
     }
