@@ -1,19 +1,19 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114667916,Minister of Agriculture,,,Q1039,Q1039,,
-Q114667918,Minister of Education,,,Q1039,Q1039,,
-Q114667922,Minister of Finance,,,Q1039,Q1039,,
-Q976210,Minister of Foreign Affairs of São Tomé and Príncipe,,,Q1039,Q1039,,
-Q112625076,Minister of Health of São Tomé and Príncipe,,,Q1039,Q1039,,
-Q114667927,Minister of Infrastructure,,,Q1039,Q1039,,
-Q114667375,Minister of Justice,Q102162183,Ministry of Justice of São Tomé and Príncipe,,Q1039,,
-Q114667929,Minister of Labour,,,Q1039,Q1039,,
-Q114667368,Minister of National Defence,Q18128077,Ministry of National Defence,,Q1039,,
-Q114667827,Minister of Parliamentary Affairs,,,Q1039,Q1039,,
-Q114667928,Minister of Tourism,,,Q1039,Q1039,,
-Q115277412,Minister of Women's Rights,,,Q1039,Q1039,,
-Q114667920,Minister of Youth and Sport,,,Q1039,Q1039,,
-Q114667925,Minister of the Presidency of the Council of Ministers,,,Q1039,Q1039,,
-Q20551579,Prime Minister of São Tomé and Príncipe,,,Q1039,Q1039,1974,
-Q114667941,Secretary of State for Commerce,,,Q1039,Q1039,,
-Q114667932,Secretary of State for Public Works,,,Q1039,Q1039,,
-Q114667936,Secretary of State for Social Communication,,,Q1039,Q1039,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114667916,Minister of Agriculture,,,Q1039,Q1039,,,2
+Q114667918,Minister of Education,,,Q1039,Q1039,,,2
+Q114667922,Minister of Finance,,,Q1039,Q1039,,,2
+Q976210,Minister of Foreign Affairs of São Tomé and Príncipe,,,Q1039,Q1039,,,16
+Q112625076,Minister of Health of São Tomé and Príncipe,,,Q1039,Q1039,,,7
+Q114667927,Minister of Infrastructure,,,Q1039,Q1039,,,2
+Q114667375,Minister of Justice,Q102162183,Ministry of Justice of São Tomé and Príncipe,,Q1039,,,13
+Q114667929,Minister of Labour,,,Q1039,Q1039,,,1
+Q114667368,Minister of National Defence,Q18128077,Ministry of National Defence,,Q1039,,,9
+Q114667827,Minister of Parliamentary Affairs,,,Q1039,Q1039,,,1
+Q114667928,Minister of Tourism,,,Q1039,Q1039,,,2
+Q115277412,Minister of Women's Rights,,,Q1039,Q1039,,,1
+Q114667920,Minister of Youth and Sport,,,Q1039,Q1039,,,2
+Q114667925,Minister of the Presidency of the Council of Ministers,,,Q1039,Q1039,,,2
+Q20551579,Prime Minister of São Tomé and Príncipe,,,Q1039,Q1039,1974,,18
+Q114667941,Secretary of State for Commerce,,,Q1039,Q1039,,,1
+Q114667932,Secretary of State for Public Works,,,Q1039,Q1039,,,1
+Q114667936,Secretary of State for Social Communication,,,Q1039,Q1039,,,1
